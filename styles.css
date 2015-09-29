@@ -1,0 +1,46 @@
+body {
+    background-image: url(http://i.ytimg.com/vi/oWA38bbmfGI/maxresdefault.jpg);
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+h2 {
+	color: yellow;
+	
+}
+
+h3 {
+	color: green;
+}
+
+p {
+	text-align: center;
+	color: blue;
+	width: 600px;
+	
+}
+
+#main_content ul {
+	color: purple
+	;
+}
+
+.planets {
+	color: orange;
+}
+
+aside {
+	color: white;
+	width: 400px;
+	position: fixed;
+	float: right;
+	padding-right: -300px;
+}
+
+aside p {
+	color: white;
+}
+
